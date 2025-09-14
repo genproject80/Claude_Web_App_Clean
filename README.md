@@ -1,4 +1,4 @@
-# GenVolt Web Application - Non-Client Hierarchy Implementation
+# GenVolt Web Application - Non-Client Hierarchy Implementation.
 
 A comprehensive IoT dashboard and device management system for GenVolt industrial equipment monitoring.
 
